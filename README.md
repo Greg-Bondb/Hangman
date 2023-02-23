@@ -7,6 +7,19 @@ The hangman game but in GO, nothing better to discover a new language.
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 </div>
 
+## Deployment
+
+To deploy this project, let's move to the "Pages" folder :
+
+```bash
+  cd Pages
+```
+
+let's start GO files :
+
+```bash
+  go run .
+```
 ## 🚀 About Me
 I am a French full stack developer passionate about cybersecurity and studying in this field. Very curious about new technologies, I like to learn new things.
 
